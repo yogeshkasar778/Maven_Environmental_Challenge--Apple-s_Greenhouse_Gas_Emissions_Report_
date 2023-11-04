@@ -79,7 +79,7 @@ Measures used in visualization are:
 ## :chart_with_upwards_trend: Report:
 Data visualization for the dataset was done using Microsoft Power BI Desktop and shared this report on Power BI Services:
 
-View Report - [Report](https://app.powerbi.com/links/NZvsjlKN3L?ctid=b9cd496c-35ed-4f56-9942-e91f9a3d8d48&pbi_source=linkShare(https://mavenanalytics.io/project/9732))
+View Report - [Report](https://mavenanalytics.io/project/9732)
 
 |    Tickets      |
 | --------------- |
