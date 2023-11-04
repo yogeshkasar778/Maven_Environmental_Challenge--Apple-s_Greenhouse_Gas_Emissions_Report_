@@ -4,14 +4,13 @@
 
 ## Table of Contents :
 
-- [Problem Statement](https://github.com/yogeshkasar778/FP20_Analytics_Challenge_8-IT_Help_Desk_Analysis/edit/main/README.md#dart-problem-statement-)
-- [Data Gathering / Requirement](https://github.com/yogeshkasar778/FP20_Analytics_Challenge_8-IT_Help_Desk_Analysis/edit/main/README.md#data-gathering--requirement)
-- [Data Perparation](https://github.com/yogeshkasar778/FP20_Analytics_Challenge_8-IT_Help_Desk_Analysis/edit/main/README.md#data-preparation)
-- [Data Modelling](https://github.com/yogeshkasar778/FP20_Analytics_Challenge_8-IT_Help_Desk_Analysis/edit/main/README.md#data-modelling)
-- [Data Analysis Expression (DAX) Calculation ](https://github.com/yogeshkasar778/FP20_Analytics_Challenge_8-IT_Help_Desk_Analysis/edit/main/README.md#data-analysis-expression-dax-calculation-)
-- [Report](https://github.com/yogeshkasar778/FP20_Analytics_Challenge_8-IT_Help_Desk_Analysis/edit/main/README.md#chart_with_upwards_trend-report)
-- [Dashboard](https://github.com/yogeshkasar778/FP20_Analytics_Challenge_8-IT_Help_Desk_Analysis/edit/main/README.md#bar_chart-dashboard)
-- [Tools, Software](https://github.com/yogeshkasar778/FP20_Analytics_Challenge_8-IT_Help_Desk_Analysis/edit/main/README.md#tools-software-)
+- [Challenge Objective](https://github.com/yogeshkasar778/Maven_Environmental_Challenge--Apple-s_Greenhouse_Gas_Emissions_Report_/edit/main/README.md#dart-challenge-objective-)
+- [Data Gathering / Requirement](https://github.com/yogeshkasar778/Maven_Environmental_Challenge--Apple-s_Greenhouse_Gas_Emissions_Report_/edit/main/README.md#data-gathering--requirement)
+- [Data Perparation](https://github.com/yogeshkasar778/Maven_Environmental_Challenge--Apple-s_Greenhouse_Gas_Emissions_Report_/edit/main/README.md#data-preparation)
+- [Data Modelling](https://github.com/yogeshkasar778/Maven_Environmental_Challenge--Apple-s_Greenhouse_Gas_Emissions_Report_/edit/main/README.md#data-modelling)
+- [Data Analysis Expression (DAX) Calculation ](https://github.com/yogeshkasar778/Maven_Environmental_Challenge--Apple-s_Greenhouse_Gas_Emissions_Report_/edit/main/README.md#data-analysis-expression-dax-calculation-)
+- [Report](https://github.com/yogeshkasar778/Maven_Environmental_Challenge--Apple-s_Greenhouse_Gas_Emissions_Report_/edit/main/README.md#chart_with_upwards_trend-report)
+- [Tools, Software](https://github.com/yogeshkasar778/Maven_Environmental_Challenge--Apple-s_Greenhouse_Gas_Emissions_Report_/edit/main/README.md#tools-software-)
 
 ## :dart: Challenge Objective :
 
@@ -81,16 +80,17 @@ Data visualization for the dataset was done using Microsoft Power BI Desktop and
 
 View Report - [Report](https://mavenanalytics.io/project/9732)
 
-|    Tickets      |
+|    Apple's Greenhouse Gas Emissions      |
 | --------------- |
-|![image](https://github.com/yogeshkasar778/FP20_Analytics_Challenge_8-IT_Help_Desk_Analysis/assets/118357991/0fde3909-3319-44c2-b80b-c7205478020c)|
+|![image](https://github.com/yogeshkasar778/Maven_Environmental_Challenge--Apple-s_Greenhouse_Gas_Emissions_Report_/assets/118357991/1d89c0a5-179f-445c-b543-7973678ea309)|
 
 
 ## Tools, Software :
 1. Power BI
-2. Power Query Editor
-3. Power BI Service
-4. Power BI Desktop
-5. Power BI Dashboard
-6. Excel
+2. DAX
+3. Power Query Editor
+4. Power BI Service
+5. Power BI Desktop
+6. Power BI Dashboard
+7. Excel
 ---
