@@ -79,7 +79,9 @@ Measures used in visualization are:
 ## :chart_with_upwards_trend: Report:
 Data visualization for the dataset was done using Microsoft Power BI Desktop and shared this report on Power BI Services:
 
-View Report - [Report](https://mavenanalytics.io/project/9732)
+Maven View Report - [Report](https://mavenanalytics.io/project/9732)
+
+Power BI View Report - [Report](https://app.powerbi.com/links/fZ1WXhuPOY?ctid=b9cd496c-35ed-4f56-9942-e91f9a3d8d48&pbi_source=linkShare)
 
 |    Apple's Greenhouse Gas Emissions      |
 | --------------- |
