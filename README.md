@@ -4,13 +4,13 @@
 
 ## Table of Contents :
 
-- [Challenge Objective](https://github.com/yogeshkasar778/Maven_Environmental_Challenge--Apple-s_Greenhouse_Gas_Emissions_Report_/edit/main/README.md#dart-challenge-objective-)
-- [Data Gathering / Requirement](https://github.com/yogeshkasar778/Maven_Environmental_Challenge--Apple-s_Greenhouse_Gas_Emissions_Report_/edit/main/README.md#data-gathering--requirement)
-- [Data Perparation](https://github.com/yogeshkasar778/Maven_Environmental_Challenge--Apple-s_Greenhouse_Gas_Emissions_Report_/edit/main/README.md#data-preparation)
-- [Data Modelling](https://github.com/yogeshkasar778/Maven_Environmental_Challenge--Apple-s_Greenhouse_Gas_Emissions_Report_/edit/main/README.md#data-modelling)
-- [Data Analysis Expression (DAX) Calculation ](https://github.com/yogeshkasar778/Maven_Environmental_Challenge--Apple-s_Greenhouse_Gas_Emissions_Report_/edit/main/README.md#data-analysis-expression-dax-calculation-)
-- [Report](https://github.com/yogeshkasar778/Maven_Environmental_Challenge--Apple-s_Greenhouse_Gas_Emissions_Report_/edit/main/README.md#chart_with_upwards_trend-report)
-- [Tools, Software](https://github.com/yogeshkasar778/Maven_Environmental_Challenge--Apple-s_Greenhouse_Gas_Emissions_Report_/edit/main/README.md#tools-software-)
+- [Challenge Objective](https://github.com/yogeshkasar778/Maven_Environmental_Challenge--Apple-s_Greenhouse_Gas_Emissions_Report_#dart-challenge-objective-)
+- [Data Gathering / Requirement](https://github.com/yogeshkasar778/Maven_Environmental_Challenge--Apple-s_Greenhouse_Gas_Emissions_Report_#data-gathering--requirement)
+- [Data Perparation](https://github.com/yogeshkasar778/Maven_Environmental_Challenge--Apple-s_Greenhouse_Gas_Emissions_Report_#data-preparation)
+- [Data Modelling](https://github.com/yogeshkasar778/Maven_Environmental_Challenge--Apple-s_Greenhouse_Gas_Emissions_Report_#data-modelling)
+- [Data Analysis Expression (DAX) Calculation ](https://github.com/yogeshkasar778/Maven_Environmental_Challenge--Apple-s_Greenhouse_Gas_Emissions_Report_#data-analysis-expression-dax-calculation-)
+- [Report](https://github.com/yogeshkasar778/Maven_Environmental_Challenge--Apple-s_Greenhouse_Gas_Emissions_Report_#chart_with_upwards_trend-report)
+- [Tools, Software](https://github.com/yogeshkasar778/Maven_Environmental_Challenge--Apple-s_Greenhouse_Gas_Emissions_Report_#tools-software-)
 
 ## :dart: Challenge Objective :
 
