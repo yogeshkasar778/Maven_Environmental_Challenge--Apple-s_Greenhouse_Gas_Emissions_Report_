@@ -1,6 +1,7 @@
 # Maven Environmental Challenge - Apple's Greenhouse Gas Emissions Report
 
-![image](https://github.com/yogeshkasar778/FP20_Analytics_Challenge_8-IT_Help_Desk_Analysis/assets/118357991/4643fa9c-9025-40df-9ffc-af36e8981c31)
+![image](https://github.com/yogeshkasar778/Maven_Environmental_Challenge--Apple-s_Greenhouse_Gas_Emissions_Report_/assets/118357991/e2cc9ad2-1422-4809-8c72-f0b743dd5608)
+
 
 ## Table of Contents :
 
